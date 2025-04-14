@@ -2,8 +2,8 @@
 
 
 <img src="https://github.com/TarshidSmartTextiles/Warpbeat-Release/blob/main/warpbeaticon.svg" alt="Warpbeat Icon" width="200"/>
-## **Key Features**
 
+#### **Key Features**
 - **Bluetooth Integration**: Effortlessly connect and manage your Bluetooth-enabled devices.
 - **Real-Time Data Visualization**: Dive into interactive charts for comprehensive data tracking and analysis.
 - **Customizable UI Components**: Enjoy a modern interface with Bottom Sheets, Chips, and Expanders.
