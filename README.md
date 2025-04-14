@@ -1,8 +1,7 @@
 # Warpbeat-Release: Elevate Your Experience!
 
 
-https://github.com/TarshidSmartTextiles/Warpbeat-Release/blob/main/warpbeaticon.svg
-
+<img src="https://github.com/TarshidSmartTextiles/Warpbeat-Release/blob/main/warpbeaticon.svg" alt="Warpbeat Icon" width="200"/>
 #### **Key Features**
 
 - **Bluetooth Integration**: Effortlessly connect and manage your Bluetooth-enabled devices.
