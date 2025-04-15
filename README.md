@@ -18,7 +18,7 @@
 
 **Installation**
 Head to the release to download the latest version.
-#Permisions#
+# **Permisions**
 
 **Warpbeat Permissions Explained**
 
